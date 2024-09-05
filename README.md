@@ -3,7 +3,9 @@
 
 A simple and responsive slider built using **GreenSock Animation Platform (GSAP)**. This project showcases a smooth and dynamic slider effect for web pages, providing an engaging visual experience.
 
-![GSAP Slider](https://aditikute24.github.io/GSAP_slider/)
+## Demo
+
+Check out the live demo [here](https://aditikute24.github.io/GSAP_slider/).
 
 ## Features
 
@@ -18,10 +20,6 @@ A simple and responsive slider built using **GreenSock Animation Platform (GSAP)
 - **CSS3** for styling
 - **JavaScript** for interactivity
 - **GSAP (GreenSock Animation Platform)** for animation effects
-
-## Demo
-
-Check out the live demo [here](https://aditikute24.github.io/GSAP_slider/).
 
 ## Installation
 
